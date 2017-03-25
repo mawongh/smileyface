@@ -1,6 +1,6 @@
-# resin-senseoflife
+# smiley face
 
-A simple project to play [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+A very simple project
 on a Raspberry Pi [SenseHAT](https://www.raspberrypi.org/products/sense-hat/)'s
 8x8 LCD matrix, deployed with [resin.io](https://resin.io)
 
